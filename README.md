@@ -1,2 +1,0 @@
-# course-test
-coursera-test
